@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-50"/>
+      <pair l="A" r="U" v="-20"/>
+      <pair l="A" r="V" v="-50"/>
+      <pair l="A" r="W" v="-40"/>
+      <pair l="A" r="Y" v="-60"/>
+      <pair l="A" r="quotedbl" v="-70"/>
+      <pair l="A" r="v" v="-25"/>
+      <pair l="C" r="c" v="-20"/>
+      <pair l="D" r="A" v="-10"/>
+      <pair l="F" r="A" v="-40"/>
+      <pair l="F" r="AE" v="-70"/>
+      <pair l="F" r="c" v="-30"/>
+      <pair l="F" r="icircumflex" v="30"/>
+      <pair l="F" r="idieresis" v="30"/>
+      <pair l="F" r="igrave" v="30"/>
+      <pair l="K" r="c" v="-50"/>
+      <pair l="K" r="v" v="-30"/>
+      <pair l="L" r="C" v="-35"/>
+      <pair l="L" r="T" v="-80"/>
+      <pair l="L" r="V" v="-50"/>
+      <pair l="L" r="W" v="-40"/>
+      <pair l="L" r="Y" v="-60"/>
+      <pair l="L" r="quotedbl" v="-70"/>
+      <pair l="L" r="v" v="-55"/>
+      <pair l="P" r="A" v="-50"/>
+      <pair l="P" r="AE" v="-80"/>
+      <pair l="P" r="c" v="-30"/>
+      <pair l="P" r="idieresis" v="10"/>
+      <pair l="P" r="quotedbl" v="30"/>
+      <pair l="T" r="A" v="-40"/>
+      <pair l="T" r="AE" v="-70"/>
+      <pair l="T" r="a" v="-80"/>
+      <pair l="T" r="acircumflex" v="-40"/>
+      <pair l="T" r="adieresis" v="-40"/>
+      <pair l="T" r="braceright" v="30"/>
+      <pair l="T" r="bracketright" v="30"/>
+      <pair l="T" r="c" v="-75"/>
+      <pair l="T" r="f" v="-20"/>
+      <pair l="T" r="icircumflex" v="30"/>
+      <pair l="T" r="idieresis" v="30"/>
+      <pair l="T" r="igrave" v="20"/>
+      <pair l="T" r="m" v="-60"/>
+      <pair l="T" r="s" v="-60"/>
+      <pair l="T" r="t" v="-40"/>
+      <pair l="T" r="u" v="-60"/>
+      <pair l="U" r="A" v="-20"/>
+      <pair l="V" r="A" v="-40"/>
+      <pair l="V" r="AE" v="-80"/>
+      <pair l="V" r="a" v="-40"/>
+      <pair l="V" r="asterisk" v="20"/>
+      <pair l="V" r="c" v="-60"/>
+      <pair l="V" r="comma" v="-90"/>
+      <pair l="V" r="copyright" v="20"/>
+      <pair l="V" r="icircumflex" v="15"/>
+      <pair l="V" r="idieresis" v="15"/>
+      <pair l="V" r="igrave" v="15"/>
+      <pair l="V" r="registered" v="20"/>
+      <pair l="V" r="s" v="-30"/>
+      <pair l="W" r="A" v="-30"/>
+      <pair l="W" r="AE" v="-70"/>
+      <pair l="W" r="c" v="-50"/>
+      <pair l="W" r="icircumflex" v="30"/>
+      <pair l="W" r="idieresis" v="30"/>
+      <pair l="W" r="igrave" v="30"/>
+      <pair l="W" r="s" v="-20"/>
+      <pair l="X" r="c" v="-40"/>
+      <pair l="Y" r="A" v="-50"/>
+      <pair l="Y" r="AE" v="-90"/>
+      <pair l="Y" r="a" v="-50"/>
+      <pair l="Y" r="c" v="-50"/>
+      <pair l="Y" r="icircumflex" v="20"/>
+      <pair l="Y" r="idieresis" v="30"/>
+      <pair l="Y" r="igrave" v="20"/>
+      <pair l="Y" r="s" v="-40"/>
+      <pair l="b" r="v" v="-15"/>
+      <pair l="braceleft" r="T" v="30"/>
+      <pair l="bracketleft" r="T" v="30"/>
+      <pair l="exclamdown" r="J" v="70"/>
+      <pair l="f" r="a" v="-30"/>
+      <pair l="f" r="asterisk" v="30"/>
+      <pair l="f" r="c" v="-30"/>
+      <pair l="f" r="copyright" v="60"/>
+      <pair l="f" r="quotedbl" v="40"/>
+      <pair l="f" r="registered" v="60"/>
+      <pair l="f" r="s" v="-20"/>
+      <pair l="f" r="trademark" v="60"/>
+      <pair l="lslash" r="v" v="35"/>
+      <pair l="questiondown" r="J" v="70"/>
+      <pair l="quotedbl" r="A" v="-70"/>
+      <pair l="r" r="asterisk" v="30"/>
+      <pair l="r" r="copyright" v="50"/>
+      <pair l="r" r="quotedbl" v="30"/>
+      <pair l="r" r="registered" v="50"/>
+      <pair l="r" r="v" v="20"/>
+      <pair l="seven" r="four" v="-50"/>
+      <pair l="seven" r="seven" v="40"/>
+      <pair l="t" r="quotesingle" v="30"/>
+      <pair l="t" r="t" v="-20"/>
+      <pair l="v" r="asterisk" v="30"/>
+      <pair l="v" r="c" v="-15"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
